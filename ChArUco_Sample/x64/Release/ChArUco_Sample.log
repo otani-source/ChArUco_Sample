@@ -1,0 +1,10 @@
+﻿  EstimatePose.cpp
+C:\opencv430_contrib\opencv-4.3.0\build\install\include\opencv2/calib3d.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+EstimatePose.cpp(63): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  コード生成しています。
+  3 of 401 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  ChArUco_Sample.vcxproj -> C:\Users\haru9\Documents\Visual Studio 2015\Projects\ChArUco_Sample\x64\Release\ChArUco_Sample.exe
+  ChArUco_Sample.vcxproj -> C:\Users\haru9\Documents\Visual Studio 2015\Projects\ChArUco_Sample\x64\Release\ChArUco_Sample.pdb (Full PDB)
